@@ -145,6 +145,12 @@ Once running, you can interact with Hagrid by typing commands. Here are some exa
   set reminder 14:30 Meeting with team
   ```
 
+## Screenshot
+
+
+![image](https://github.com/user-attachments/assets/9e5c9d63-0745-4fa3-b49e-013fe2da42c1)
+
+
 ## Contributing
 
 Contributions are welcome! Please fork the repository and submit a pull request.
