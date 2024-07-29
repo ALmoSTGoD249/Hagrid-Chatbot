@@ -1,0 +1,5 @@
+openai
+pyautogui
+rich
+requests
+python-dotenv
